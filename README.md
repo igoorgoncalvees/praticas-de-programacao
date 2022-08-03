@@ -1,6 +1,6 @@
-# praticas-de-programacao
- Praticando Programação
-
+# PRATICAS DE PROGRAMAÇÃO
+ 
+-------------------------------------------------------------------
 
 Pratica feita durante aula. 
 
