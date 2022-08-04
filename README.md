@@ -11,3 +11,8 @@ Pratica feita durante aula.
 1ª Pratica sozinho
 
 <a href="https://igoorgoncalvees.github.io/globoesporte/globoesporte.html" target="_blank"> Site do GLOBO ESPORTE </a>
+
+
+Refazendo Site do Globo Esporte 
+
+<a href= "https://igoorgoncalvees.github.io/globoesportee/globoesportee"> Globo esporte 2 </a>
