@@ -16,3 +16,8 @@ Pratica feita durante aula.
 Refazendo Site do Globo Esporte 
 
 <a href= "https://igoorgoncalvees.github.io/globoesportee/globoesportee"> Globo esporte 2 </a>
+
+
+Curso em Video
+
+<a href= "https://igoorgoncalvees.github.io/cordelmoderno/cordelmoderno">Cordel Moderno </a>
