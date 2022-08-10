@@ -1,23 +1,19 @@
 # PRATICAS DE PROGRAMAÇÃO
  
---------------------------------------------------------------------
+------------------------------------------------------
 
-Pratica feita durante aula. 
+Curso em Video (Feito em aula) 
 
 <a href= "https://igoorgoncalvees.github.io/html-css/desafios/desaf010/atividade%20b/android" target="_blank"> Como surgiu o mascote do Android. </a>
 
-------------------------------------------------------------------
+-------------------------------------------------------
 
-1ª Pratica sozinho
+Globo Esporte (EM CONSTRUÇÃO)
 
-<a href="https://igoorgoncalvees.github.io/globoesporte/globoesporte.html" target="_blank"> Site do GLOBO ESPORTE </a>
+<a href= "https://igoorgoncalvees.github.io/globoesportee/globoesportee"> Globo Esporte </a>
 
+-----------------------------------------------------
 
-Refazendo Site do Globo Esporte 
-
-<a href= "https://igoorgoncalvees.github.io/globoesportee/globoesportee"> Globo esporte 2 </a>
-
-
-Curso em Video
+Curso em Video (Feiro em aula)
 
 <a href= "https://igoorgoncalvees.github.io/cordelmoderno/cordelmoderno">Cordel Moderno </a>
