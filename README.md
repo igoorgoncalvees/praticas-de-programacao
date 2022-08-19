@@ -14,6 +14,11 @@ Globo Esporte (EM CONSTRUÇÃO)
 
 -----------------------------------------------------
 
-Curso em Video (Feiro em aula)
+Curso em Video (Feito em aula)
 
 <a href= "https://igoorgoncalvees.github.io/cordelmoderno/cordelmoderno">Cordel Moderno </a>
+
+-----------------------------------------------------
+Projeto Rede Sociais 
+
+<a href= "https://igoorgoncalvees.github.io/projeto-social/">Redes Sociais</a>
