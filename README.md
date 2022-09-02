@@ -10,15 +10,15 @@ Curso em Video (Feito em aula)
 
 Curso em Video (Feito em aula)
 
-<a href= "https://igoorgoncalvees.github.io/cordelmoderno/cordelmoderno">Cordel Moderno </a>
+<a href= "https://igoorgoncalvees.github.io/cordelmoderno/cordelmoderno" target="_blank" >Cordel Moderno </a>
 
 -----------------------------------------------------
 Projeto Rede Sociais 
 
-<a href= "https://igoorgoncalvees.github.io/projeto-social/">Redes Sociais</a>
+<a href= "https://igoorgoncalvees.github.io/projeto-social/" target="_blank" >Redes Sociais</a>
 
 -------------------------------------------------------
 
 Video Feito com Youtuber POGCAST
 
-<a href= "https://igoorgoncalvees.github.io/projeto-pogcast/"> WebWord </a>
+<a href= "https://igoorgoncalvees.github.io/projeto-pogcast/" target="_blank" > WebWord </a>
