@@ -24,10 +24,16 @@ PROJETOS
 
 Video Feito com Youtuber POGCAST
 
-<a href= "https://igoorgoncalvees.github.io/projeto-pogcast/" target="_blank" > WebWord </a>
+<a href= "https://igoorgoncalvees.github.io/projeto-pogcast/" target="_blank" > Web Word </a>
 
 --------------------------------------------------------
 
 Qr Code (05/09/2022)
 
-<a href= "https://igoorgoncalvees.github.io/qr-code/" target="_blank" > Qr-Code </a>
+<a href= "https://igoorgoncalvees.github.io/qr-code/" target="_blank" > Qr code </a>
+
+--------------------------------------------------------
+
+NFT - Card (06/09/2022)
+
+<a href= "https://igoorgoncalvees.github.io/nft-card/" target="_blank" > NFT - Card </a>
